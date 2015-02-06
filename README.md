@@ -7,6 +7,6 @@ Usando [reveal.js](https://github.com/hakimel/reveal.js)
 
 MIT
 
-git-aprende: Rod Wilhelmy, @rodowi
-reveal.js: Copyright (C) 2015 Hakim El Hattab, http://hakim.se
+**git-aprende:** Rod Wilhelmy, [@rodowi](https://twitter.com/rodowi)  
+**reveal.js:** Copyright (C) 2015 Hakim El Hattab, http://hakim.se
 
